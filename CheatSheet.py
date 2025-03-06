@@ -8,7 +8,7 @@
 name = "Alice"  # String variable
 age = 16        # Integer variable
 is_student = True  # Boolean variable
-
+height = 185
 
 print("Name:", name)
 print("Age:", age)
